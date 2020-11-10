@@ -1,0 +1,70 @@
+body {
+  background-color: #1f1f1f;
+
+}
+
+.heddar {
+  border: solid 1px white;
+  line-height: 180px;
+  float: inline-start;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+.menu {
+  color: white;
+  
+}
+
+.box3 {
+
+  border: solid 1px white;
+
+  float: left;
+  text-align: center;
+  border: solid 1px white;
+
+  line-height: 20px;
+
+
+  width:60%;
+
+}
+
+.box2 {
+
+  border: solid 1px white;
+  line-height: 50px;
+  float: left;
+
+
+}
+
+h2 {
+  color: red;
+  font-size: 55px;
+}
+
+a {
+  color: blue;
+}
+
+a {
+  color: white;
+
+}
+
+.box1 {
+  font-size:5px;
+}
+
+.sinseihin {
+color: white;
+}
+
